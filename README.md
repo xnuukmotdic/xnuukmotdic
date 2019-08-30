@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" />
-<title>UI</title>
+#UI
 <link rel="stylesheet" href="https://gw.alipayobjects.com/as/g/antui/antui/10.1.32/dpl/widget/article.css">
-</head>
+
 <body>
     
 
@@ -39,4 +33,4 @@
 </div>
 
 </body>
-</html>
+
